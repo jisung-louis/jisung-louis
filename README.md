@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Jisung Chun!
+🚀 Frontend Developer | React · React Native · JavaScript · Firebase
 
-<!--
-**jisung-louis/jisung-louis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 성결대학교 컴퓨터공학과 (2026년 2월 졸업 예정)  
+💡 관심분야: 웹/모바일 프론트엔드, 사용자 경험(UX), 실시간 데이터 서비스  
 
-Here are some ideas to get you started:
+## 💻 Projects
+- **[SKURI (2025)]** : 성결대 통합 플랫폼 앱 (React Native, Firebase)
+- **[숨숨 (2025)]** : 마음운동/감정기록 앱 (React Native)
+- **[RecoTrip (2024~2025)]** : 여행 기록 플랫폼 (React, REST API)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+React, React Native, JavaScript, Firebase, Git, MySQL, Figma, Python
+
+## 🌱 Currently learning
+Java & Spring Boot (백엔드 API 이해)
+
+## 📫 Contact
+✉️ [khkh9357@naver.com]  
