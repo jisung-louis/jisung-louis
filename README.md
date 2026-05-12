@@ -7,7 +7,7 @@
 ## 💻 Projects
 - **[SKURI (2025~2026)]** : 성결대 통합 플랫폼 앱 (React Native, Spring Boot)
 - **[숨숨 (2025)]** : 마음운동/감정기록 앱 (React Native)
-- **[우리동네 국회의원 (2026)]** : 국회의원 정보확인 및 소통 플랫폼
+- **[우리동네 국회의원 (2026)]** : 국회의원 정보확인 및 소통 플랫폼 (React , Spring Boot)
 
 ## 🛠️ Tech Stack
 
@@ -22,14 +22,16 @@
 
 ### Frontend / Mobile
 <p>
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
 ### Infra / Tools
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
