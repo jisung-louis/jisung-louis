@@ -2,7 +2,7 @@
 🚀 Backend Developer
 
 🎓 성결대학교 컴퓨터공학과 (2026년 2월 졸업)  
-💡 관심분야: 스프링 백엔드, 웹/모바일 프론트엔드
+💡 관심분야: 스프링 백엔드, 웹/모바일 프론트엔드, AI 개발
 
 ## 💻 Projects
 - **[SKURI (2025~2026)]** : 성결대 통합 플랫폼 앱 (React Native, Spring Boot)
@@ -38,7 +38,7 @@
 </p>
 
 ## 🌱 Currently learning
-Java & Spring Boot
+AI Embedding, RAG, ChatBot, AI Based Dev Workflow, Harness Engineering
 
 ## 📫 Contact
 ✉️ [khkh9357@naver.com]  
