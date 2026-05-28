@@ -1,13 +1,22 @@
 # 👋 Hi, I'm Jisung Chun!
 🚀 Backend Developer
 
-🎓 성결대학교 컴퓨터공학과 (2026년 2월 졸업)  
+🎓 성결대학교 컴퓨터공학과 졸업
 💡 관심분야: 스프링 백엔드, 웹/모바일 프론트엔드, AI 개발
 
+## 🔥 현재 진행중인 프로젝트
+
+### DevProof
+개발자 포트폴리오와 프로젝트 경험을 효과적으로 증명할 수 있는 플랫폼을 개발하고 있습니다.
+
+- **[devproof-fe](https://github.com/jisung-louis/devproof-fe)** : DevProof 프론트엔드 (React)
+- **[devproof-be](https://github.com/jisung-louis/devproof-be)** : DevProof 백엔드 API 서버 (Spring Boot)
+- **[devproof-ai](https://github.com/jisung-louis/devproof-ai)** : DevProof AI 기능 서버 (FastAPI)
+
 ## 💻 Projects
-- **[SKURI (2025~2026)]** : 성결대 통합 플랫폼 앱 (React Native, Spring Boot)
-- **[숨숨 (2025)]** : 마음운동/감정기록 앱 (React Native)
-- **[우리동네 국회의원 (2026)]** : 국회의원 정보확인 및 소통 플랫폼 (React , Spring Boot)
+- [SKURI (2025~2026)] : 성결대 통합 플랫폼 앱 (React Native, Spring Boot)
+- [숨숨 (2025)] : 마음운동/감정기록 앱 (React Native)
+- [우리동네 국회의원 (2026)] : 국회의원 정보확인 및 소통 플랫폼 (React , Spring Boot)
 
 ## 🛠️ Tech Stack
 
@@ -41,4 +50,4 @@
 AI Embedding, RAG, ChatBot, AI Based Dev Workflow, Harness Engineering
 
 ## 📫 Contact
-✉️ [khkh9357@naver.com]  
+✉️ [khkh9357@naver.com]
