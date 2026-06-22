@@ -4,14 +4,6 @@
 🎓 성결대학교 컴퓨터공학과 졸업
 💡 관심분야: 스프링 백엔드, 웹/모바일 프론트엔드, AI 개발
 
-## 🔥 현재 진행중인 프로젝트
-
-### DevProof
-개발자 포트폴리오와 프로젝트 경험을 효과적으로 증명할 수 있는 플랫폼을 개발하고 있습니다.
-- **[devproof-fe](https://github.com/jisung-louis/devproof-fe)** : DevProof 프론트엔드 (React)
-- **[devproof-be](https://github.com/jisung-louis/devproof-be)** : DevProof 백엔드 API 서버 (Spring Boot)
-- **[devproof-ai](https://github.com/jisung-louis/devproof-ai)** : DevProof AI 기능 서버 (FastAPI)
-
 ## 💻 Projects
 | [SKURI (2025~2026)](https://github.com/jisung-louis/SKURI-Backend) | [우리동네 국회의원 (2026)](https://github.com/jisung-louis/ourassembly) | [숨숨 (2025)](https://github.com/jisung-louis/soomsoom) | 
 | --- | --- | --- |
