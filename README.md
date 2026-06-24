@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Jisung Chun!
-🚀 Backend / Fullstack Developer
+🚀 Web Fullstack / MES C# Developer
 
 🎓 성결대학교 컴퓨터공학과 졸업
 💡 관심분야: 스프링 백엔드, 웹/모바일 프론트엔드, AI 개발
 
 ## 💻 Projects
-| [SKURI (2025~2026)](https://github.com/skuri-kr) | [우리동네 국회의원 (2026)](https://github.com/jisung-louis/ourassembly) | [숨숨 (2025)](https://github.com/jisung-louis/soomsoom) | 
+| [<img src="./skuri-icon.png" width="24" align="absmiddle"/>](https://github.com/skuri-kr)&nbsp;&nbsp;[SKURI (2025~2026)](https://github.com/skuri-kr) | [<img src="./ourassembly-icon.png" width="24" align="absmiddle"/>](https://github.com/jisung-louis/ourassembly)&nbsp;&nbsp;[우리동네 국회의원 (2026)](https://github.com/jisung-louis/ourassembly) | [<img src="./soomsoom-icon.png" width="24" align="absmiddle"/>](https://github.com/jisung-louis/soomsoom)&nbsp;&nbsp;[숨숨 (2025)](https://github.com/jisung-louis/soomsoom) |
 | --- | --- | --- |
 | ![skuri-mockup](./skuri-mockup.png) | ![uridongne-mockup](./uridongne-mockup.png) | ![soomsoom-mockup](./soomsoom-mockup.png) |
 | 성결대 실시간 공지사항, 택시동승, 정보제공 통합 플랫폼 앱 | 국회의원 정보확인 및 소통 플랫폼 | 마음운동/감정기록 앱 |
