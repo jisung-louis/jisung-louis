@@ -5,7 +5,7 @@
 💡 관심분야: 스프링 백엔드, 웹/모바일 프론트엔드, AI 개발
 
 ## 💻 Projects
-| [SKURI (2025~2026)](https://github.com/jisung-louis/SKURI-Backend) | [우리동네 국회의원 (2026)](https://github.com/jisung-louis/ourassembly) | [숨숨 (2025)](https://github.com/jisung-louis/soomsoom) | 
+| [SKURI (2025~2026)](https://github.com/skuri-kr) | [우리동네 국회의원 (2026)](https://github.com/jisung-louis/ourassembly) | [숨숨 (2025)](https://github.com/jisung-louis/soomsoom) | 
 | --- | --- | --- |
 | ![skuri-mockup](./skuri-mockup.png) | ![uridongne-mockup](./uridongne-mockup.png) | ![soomsoom-mockup](./soomsoom-mockup.png) |
 | 성결대 실시간 공지사항, 택시동승, 정보제공 통합 플랫폼 앱 | 국회의원 정보확인 및 소통 플랫폼 | 마음운동/감정기록 앱 |
